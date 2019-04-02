@@ -1,3 +1,8 @@
+<?php
+
+include('header.php');
+?>
+
 <!doctype html>
 
 <html lang="en">
@@ -16,12 +21,6 @@
 </head>
 
 <body>
-  <div class="topnav">
-    <a href="index.html">Home</a>
-    <a href="identify.html">Identify</a>
-    <a class="active" href="database.html">Database</a>
-    <a href="citations.html">Citations</a>
-  </div>
   <h1>Our Database</h1>
 </body>
 </html>

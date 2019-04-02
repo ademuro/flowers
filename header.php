@@ -17,21 +17,10 @@
 
 <body>
   <div class="topnav">
-    <a href="index.html">Home</a>
-    <a class="active" href="identify.html">Identify</a>
-    <a href="database.html">Database</a>
-    <a href="citations.html">Citations</a>
-  </div>
-  <div>
-    <center>
-      <h1>Identify!</h1>
-      Select a image of a flower to upload.
-      <br></br>
-      <form method="post" enctype="multipart/form-data">
-        <input type="file" name="files[]"/>
-        <input class="button" type="submit" value="Upload Image" name="submit" />
-      </form>
-    </center>
+    <a class="active" href="index.php">Home</a>
+    <a href="identify.php">Identify</a>
+    <a href="database.php">Database</a>
+    <a href="citations.php">Citations</a>
   </div>
   
 </body>

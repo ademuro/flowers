@@ -1,27 +1,18 @@
+<?php
+
+include('header.php');
+?>
+
 <!doctype html>
 
 <html lang="en">
 <head>
   <meta charset="utf-8">
 
-  <title> Flowers </title>
+  <title> Home </title>
   <meta name="description" content="Flowers">
   <meta name="author" content="SitePoint">
-
-  <!--<link rel="stylesheet" href="css/styles.css?v=1.0">-->
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 </head>
-
-<body>
-  <div class="topnav">
-    <a class="active" href="index.html">Home</a>
-    <a href="identify.html">Identify</a>
-    <a href="database.html">Database</a>
-    <a href="citations.html">Citations</a>
-  </div>
 
   <div>
     <center>
@@ -33,7 +24,7 @@
         <br></br>
         You can learn more about the details of the flower and how to plant it and take care of it!
         <br></br>
-        <a href="identify.html" class="button">Upload Image</a>
+        <a href="identify.html" class="button">Upload Image</a> 
     </center>
   </div>
   

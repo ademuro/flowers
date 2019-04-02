@@ -1,3 +1,8 @@
+<?php
+
+include('header.php');
+?>
+
 <!doctype html>
 
 <html lang="en">
@@ -7,21 +12,11 @@
   <title> Citations </title>
   <meta name="citations" content="Citations">
   <meta name="author" content="SitePoint">
-
-  <!--<link rel="stylesheet" href="css/styles.css?v=1.0">-->
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+  
 </head>
 
 <body>
-  <div class="topnav">
-    <a href="index.html">Home</a>
-    <a href="identify.html">Identify</a>
-    <a href="database.html">Database</a>
-    <a class="active" href="citations.html">Citations</a>
-  </div>
+
     <h1> Citations </h1>
     <h5> The flower data for this app is from Oxford Visual Geometry Group. </h5>
     <p>
