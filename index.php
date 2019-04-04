@@ -24,7 +24,7 @@ include('header.php');
         <br></br>
         You can learn more about the details of the flower and how to plant it and take care of it!
         <br></br>
-        <a href="identify.html" class="button">Upload Image</a> 
+        <a href="identify.php" class="button">Upload Image</a> 
     </center>
   </div>
   
